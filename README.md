@@ -18,15 +18,15 @@
 
 ---
 
-## 🌸 私について
-- 💻 モダンでスケーラブルな **デジタルソリューション** を開発しています。  
-- 🌌 **HTML, CSS, JavaScript, Python, Lua, OpenGL, ZScript, 自動化** の経験があります。  
-- ⚡ パフォーマンスと品質を大切にし、**アイデアを革新的なプロジェクト** に変えることを目指しています。  
-- 🚀 常に進化し続けることが私のモットーです。  
+##  私について
+-  モダンでスケーラブルな **デジタルソリューション** を開発しています。  
+-  **HTML, CSS, JavaScript, Python, Lua, OpenGL, ZScript, 自動化** の経験があります。  
+-  パフォーマンスと品質を大切にし、**アイデアを革新的なプロジェクト** に変えることを目指しています。  
+-  常に進化し続けることが私のモットーです。  
 
 ---
 
-## 🛠️ スキル 
+##  スキル 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,python,lua,opengl&theme=light" /><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,react,tailwind&theme=light" /><br>
