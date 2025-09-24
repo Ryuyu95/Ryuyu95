@@ -2,7 +2,7 @@
 <div align="center">
   <img 
     width="100%" 
-    src="fitg.gif"
+    src="imagine1.gif"
   />
 </div>
 
@@ -36,5 +36,5 @@
 ---
 
 <div align="center">
-  <img src="fig.gif"/>
+  <img src="imagine1.gif"/>
 </div>
