@@ -35,13 +35,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.tenor.com/YNqsJbmb_yMAAAAC/cyberpunk-anime.gif" width="400">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400">
-</p>
-
----
-
 <div align="center">
   <img src="fig.gif"/>
 </div>
