@@ -33,8 +33,3 @@
   <img src="https://skillicons.dev/icons?i=cpp,cs,java,mysql,bash,linux&theme=light" /><br>
 </div>
 
----
-
-<div align="center">
-  <img src="imagine1.gif"/>
-</div>
