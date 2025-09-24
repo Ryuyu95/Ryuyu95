@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ スキル (Tech Stack)
+## 🛠️ スキル 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,python,lua,opengl&theme=light" /><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,react,tailwind&theme=light" /><br>
