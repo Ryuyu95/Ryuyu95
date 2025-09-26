@@ -1,4 +1,4 @@
-<!-- HEADER -->
+
 <div align="center">
   <img 
     width="100%" 
@@ -6,12 +6,10 @@
   />
 </div>
 
-<!-- MAIN GIF -->
 <p align="center">
   <img src="ryumaldito.gif" alt="Ryu Maldito" width="400"/>
 </p>
 
-<!-- NAME -->
 <h1 align="center">
   <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=こんにちは!+👋;+私は+リュウ・マルディト🔥;&color=FFFFFF&vCenter=true" />
 </h1>
